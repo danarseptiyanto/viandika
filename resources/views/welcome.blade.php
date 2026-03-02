@@ -31,7 +31,7 @@
     </style>
 </head>
 
-<body class="bg-black p-0 h-screen w-full overflow-hidden flex items-center justify-center">
+<body class="bg-black p-0 h-dvh w-full overflow-hidden flex items-center justify-center">
 
     <div class="relative w-full h-full max-w-[400px] bg-zinc-900 shadow-2xl overflow-hidden md:svh">
 
