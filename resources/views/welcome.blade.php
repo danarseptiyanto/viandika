@@ -44,11 +44,11 @@
                             <p class="text-xl font-bold">Firda Yuliana Sari</p>
                             <p class="text-lg text-[#767676] text-[14px]">(PT Adalah Itulah)</p>
                         </div>
-                        <p class="font-serif text-2xl font-semibold max-w-[220px] mx-auto pt-5">You’re Invited To The Wedding Of</p>
-                        <img src="/img/nama.svg" class="w-auto px-5 mx-auto">
+                        <p class="font-serif text-2xl font-semibold max-w-55 mx-auto pt-5">You’re Invited To The Wedding Of</p>
+                        <img src="/img/nama.svg" class="w-auto px-8 mx-auto">
 
                     </div>
-                    <img src="/img/foto1.png" class="md:-bottom-10 absolute w-max right-0 -bottom-5">
+                    <img src="/img/foto1.png" class="md:-bottom-10 absolute w-max right-0 -bottom-16">
                 </div>
 
                 <div
